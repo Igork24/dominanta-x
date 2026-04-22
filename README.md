@@ -1,6 +1,7 @@
 # Dominanta X — Kaminskyi Algorithm
 
 **Author of philosophical concept:** Igor V. Kaminskyi (2024–2025)  
+https://doi.org/10.5281/zenodo.19694325
 **Formal operationalization and implementation:** Claude (Anthropic)
 
 ---
