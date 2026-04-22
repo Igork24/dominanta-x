@@ -29,4 +29,9 @@ Three key properties that distinguish it from existing approaches:
 ```bash
 pip install numpy
 python dominanta_x_local.py
-
+Paper
+Kaminskyi, I. V. (2025). Dominanta X: A Formal Multi-Agent
+Architecture of Competitive Interpretation, Temporal Stabilization
+and Self-Regulated System Dynamics.Zenodo. [DOI — добавить после загрузки]
+License
+Apache 2.0 — see LICENSE file.Philosophical concept © Igor V. Kaminskyi (2024–2025).
